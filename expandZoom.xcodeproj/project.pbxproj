@@ -18,6 +18,7 @@
 		0455FD8117788E860036EFD8 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0455FD8017788E860036EFD8 /* Default-568h@2x.png */; };
 		0455FD8417788E860036EFD8 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0455FD8217788E860036EFD8 /* MainStoryboard.storyboard */; };
 		0455FD8717788E860036EFD8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0455FD8617788E860036EFD8 /* ViewController.m */; };
+		0455FD8E17788F990036EFD8 /* LaraCroft@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0455FD8D17788F980036EFD8 /* LaraCroft@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		0455FD8317788E860036EFD8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		0455FD8517788E860036EFD8 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		0455FD8617788E860036EFD8 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0455FD8D17788F980036EFD8 /* LaraCroft@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LaraCroft@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				0455FD8217788E860036EFD8 /* MainStoryboard.storyboard */,
 				0455FD8517788E860036EFD8 /* ViewController.h */,
 				0455FD8617788E860036EFD8 /* ViewController.m */,
+				0455FD8D17788F980036EFD8 /* LaraCroft@2x.png */,
 				0455FD7117788E860036EFD8 /* Supporting Files */,
 			);
 			path = expandZoom;
@@ -163,6 +166,7 @@
 				0455FD7F17788E860036EFD8 /* Default@2x.png in Resources */,
 				0455FD8117788E860036EFD8 /* Default-568h@2x.png in Resources */,
 				0455FD8417788E860036EFD8 /* MainStoryboard.storyboard in Resources */,
+				0455FD8E17788F990036EFD8 /* LaraCroft@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
