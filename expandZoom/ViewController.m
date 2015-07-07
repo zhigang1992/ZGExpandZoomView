@@ -26,11 +26,11 @@ static CGFloat kImageOriginHight = 240.f;
     [self.tableView addSubview:self.expandZoomImageView];
 }
 
-- (void)viewWillAppear:(BOOL)animated{
-    [super viewWillAppear:animated];
-    
+- (void)viewWillLayoutSubviews {
+    [super viewWillLayoutSubviews];
     self.expandZoomImageView.frame = CGRectMake(0, -kImageOriginHight, self.tableView.frame.size.width, kImageOriginHight);
 }
+
 
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView{
     CGFloat yOffset  = scrollView.contentOffset.y;
